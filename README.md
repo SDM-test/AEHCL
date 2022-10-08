@@ -9,5 +9,5 @@ the source code of AEHCL
   * scikit-learn 1.0.1 
   * spicy 1.6.2
 * Run
-  *. python gen_neg.py
-  *. python run.py
+  * python gen_neg.py
+  * python run.py
